@@ -1,0 +1,16 @@
+.body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    background-color: #f3f4f5;
+    height: 10%;
+}
+.row {
+    height: 10%;
+
+}
